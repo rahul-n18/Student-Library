@@ -9,9 +9,8 @@
 <br>
 
 <h2 align="left">Idea 💡: </h2>
-<p align="left">My Idea is simple but I feel it is needed. I want to build an app which has major of the things a Student needs for his Day to Day Life.
-For example Instead for browsing an entire web for some book, we can have a library which provides his Needs. Not only that an which gives you latest Update of Tech world 
-and Which will help you for growing your career. An App which gives you Motiavtion and path to become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
+<p align="left">My Idea is simple but I feel it is needed. I want to build an app which has major of the things a student needs for his Day to Day Life.
+For example Instead for browsing an entire web for some book, we can have a library which provides his Needs. Not only that an app which gives you latest Update of Tech world and Which will help you for growing your career. An App which gives you Motivation and path to become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
 </h3>
 
 
@@ -26,18 +25,18 @@ and Which will help you for growing your career. An App which gives you Motiavti
 ## Why?
 <a href="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"><img src="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"></a>
  
-I Personally Feel this is the only Industry where people are so supportive and wants to help each other's Grow.
+I Personally Feel this is the only Industry where people are so supportive and wants to help each other to Grow.
      <br>So why not bring all Like Minded People Together?
 
 ## Features
 <a allign="right" href="https://media1.giphy.com/media/lXu72d4iKwqek/giphy.gif"><img src="https://media1.giphy.com/media/lXu72d4iKwqek/giphy.gif" alt=" " width="200"></a>
 
- I Created this Repo for Understanding What People Need, such as:
+ I Created this Repo for Understanding What People Needs, such as:
  
-- What Can We Add
+- What Can We Add?
 - Tech Stack?
-- Hows?
-- Things which is Needed
+- How?
+- Things which is Needed...
 - What Exactly a Student Want?
 
 
@@ -45,9 +44,9 @@ I Personally Feel this is the only Industry where people are so supportive and w
 
 ## For You?
 
-<p> You May feel like what is there for you. so I thought this Hacktoberfest would be Perfect time you can contribute to this Repo and ill Merge your PR's.
+<p> You May feel like what is there for you. So I thought this Hacktoberfest would be a Perfect time for you to contribute to this Repo and i'll Merge your PR's.
  But I need Genuine Ideas and Innovative way we can make this Happen.
- I Feel we have the Power to pull this off<p>
+ I Feel we have the Power to pull this off!<p>
 <br>	 
 	 
 - Open an Issue
