@@ -98,6 +98,14 @@
             }
         }
     });
+
+    // Current URL updator
+    let current_url = document.location;
+    document.querySelectorAll(".nav-item").forEach(function(e){
+       if(e.href == current_url){
+          e.classList += " active";
+       }
+    });
     
 })(jQuery);
 
