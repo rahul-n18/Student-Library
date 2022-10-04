@@ -1,0 +1,19 @@
+.main-box{
+    text-align: center;
+}
+
+#Intro{
+    display: grid;
+    column-span: 2;
+    border-radius: 15px;
+}
+
+.page{
+    text-decoration: none;
+    color: rgb(126, 0, 0);
+}
+
+
+#foot{
+    width:100%;
+}
