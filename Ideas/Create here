@@ -1,7 +1,7 @@
 Tech Stack :
 
 1. For making a library app we need to use an app which uses React JS for its Front-End.
-2. For the Backend part i.e. for storing the data we can use Mongo DB.
+2. For the Backend part i.e. for storing the data we can use Mongo DB and for developing api we can use node.js,express.js.
 3. We will be requiring a strong source for the Tech information to be conveyed through the app.
 
 What Can We Add ?
