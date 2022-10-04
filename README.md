@@ -9,9 +9,8 @@
 <br>
 
 <h2 align="left">Idea 💡: </h2>
-<p align="left">My Idea is simple but I feel it is needed. I want to build an app which has major of the things a Student needs for his Day to Day Life.
-For example Instead for browsing an entire web for some book, we can have a library which provides his Needs. Not only that an which gives you latest Update of Tech world 
-and Which will help you for growing your career. An App which gives you Motiavtion and path to become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
+<p align="left">My Idea is simple but I feel it is needed. I want to build an app which has the majority of the things a Student needs for their Day to Day Life.
+For example Instead for browsing the entire web for some book, we can have a library which contains all the resources a student Needs. Including the latest Updates of the Tech world, and the latest tips for career growth. An App which gives you Motiavtion and path to become a better Person and where Like minded people can Talk and Discuss the future of Tech.<p>
 </h3>
 
 
@@ -26,7 +25,7 @@ and Which will help you for growing your career. An App which gives you Motiavti
 ## Why?
 <a href="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"><img src="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"></a>
  
-I Personally Feel this is the only Industry where people are so supportive and wants to help each other's Grow.
+I Personally Feel this is the only Industry where people are so supportive and want to help each other Grow.
      <br>So why not bring all Like Minded People Together?
 
 ## Features
@@ -34,11 +33,11 @@ I Personally Feel this is the only Industry where people are so supportive and w
 
  I Created this Repo for Understanding What People Need, such as:
  
-- What Can We Add
+- What Can We Add?
 - Tech Stack?
 - Hows?
-- Things which is Needed
-- What Exactly a Student Want?
+- Things that are neccesary/must haves 
+- What Exactly do Students want?
 
 
 ![line-png-15](https://user-images.githubusercontent.com/64891042/193567794-f5a0e6d0-0f5c-442c-bad2-6b5d3e0d4b68.png)
@@ -75,7 +74,7 @@ I Personally Feel this is the only Industry where people are so supportive and w
 <a href="https://discord.gg/mMqXKSVsAK"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a>  
 	&nbsp; <a href="mailto:rahuldeepak2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	&nbsp;<a href="https://twitter.com/thegood__guy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-   &nbsp;&nbsp;  <a href="https://github.com/rahul-n18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  &nbsp;&nbsp; <a href="https://www.instagram.com/rahulalldaynew/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;  <a href="www.linkedin.com/in/rahul-naveen"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+   &nbsp;&nbsp;  <a href="https://github.com/rahul-n18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  &nbsp;&nbsp; <a href="https://www.instagram.com/rahulalldaynew/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;&nbsp;  <a href="https://www.linkedin.com/in/rahul-naveen"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ---
 ## Hacktoberfest
@@ -90,7 +89,7 @@ Hacktoberfest is an annual festival hosted by DigitalOcean that takes place in t
 
 #### Tips for Contributors:
 
-- PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
+- PRs beyond our open issues are welcome, but make sure your contributions are meaningful and beneficial to other users; Otherwise your PR may be closed and marked as ‘invalid’.
 - Issues before PRs. If you plan to make a contribution, please make sure there is an issue for it. You can either find an existing issue or open a new issue if none exists.
 - You are welcome to make your first contribution to this repo. 
 
