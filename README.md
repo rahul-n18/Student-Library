@@ -9,8 +9,8 @@
 <br>
 
 <h2 align="left">Idea 💡: </h2>
-<p align="left">My Idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by a student for his Day to Day Life.
-For example Instead for browsing an entire web for some book, we can have a library which provides him the book he needs. Not only that, An app which gives you latest Updates of Tech world,
+<p align="left">My Idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by students for their Day to Day Life.
+For example Instead for browsing an entire web for some book, we can have a library which provides them the book they need. Not only that, An app which gives you latest Updates of Tech world,
 An app that will help you in growing your career, An App which gives you Motiavtion and guides you to the path with which you can become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
 </h3>
 
