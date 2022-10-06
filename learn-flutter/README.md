@@ -51,7 +51,7 @@ A list of Free Flutter resources that will help people get started with Flutter.
 - [Animation Intro Youtube Playlist Version](https://www.youtube.com/watch?v=GXIJJkq_H8g&list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua) by [Flutter](https://www.youtube.com/c/flutterdev)
 - [Animation Tutorial](https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - A video playlist tutorial about using animations in Flutter by [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Animation CheatSheet](https://codesearchonline.com/index.php/flutter-implicit-animation/) - Flutter Implicit Animation Widgets CheatSheet
-- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
+- [Animated Selection Slide](https://github.com/szbk/animated_selection_slide/blob/master/README.md) - Animated Selection Slide
 - [Forms in Flutter](https://www.youtube.com/watch?v=2C16OP-xIwU&list=PLaY6YJMqp51ctPHYg1VAZ7wIs30cjhXNC) - Forms in Flutter with Validation Unit Test
 - [Animation in Flutter](https://www.didierboelens.com/2018/06/animations-in-flutter-easy-guide-tutorial/) - Animation in Flutter Easy Guide by [boeledi](https://github.com/boeledi/guillotine)
 - [AWS Amplify](https://docs.amplify.aws/start/q/integration/flutter) - AWS Amplify is an end-to-end solution that enables mobile and front-end web developers to build and deploy secure, scalable full stack applications, powered by [AWS](https://aws.amazon.com/amplify/)
