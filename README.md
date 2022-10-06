@@ -9,9 +9,9 @@
 <br>
 
 <h2 align="left">Idea 💡: </h2>
-<p align="left">My Idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by students for their Day to Day Life.
-For example Instead for browsing an entire web for some book, we can have a library which provides them the book they need. Not only that, An app which gives you latest Updates of Tech world,
-An app that will help you in growing your career, An App which gives you Motiavtion and guides you to the path with which you can become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
+<p align="left">My idea is simple, but I feel it is essential. I want to build an app that covers most of the things students require for their day to day lives.
+For example, instead of browsing an entire web for some book, we can have a library that provides them the book they need. Not only that, an app which gives you the latest updates of Tech World,
+an app that will help you in growing your career, an App which gives you the motivation and guides you to the path with which you can become a better person and where like-minded people can talk and discuss about future and tech.<p>
 </h3>
 
 
@@ -26,7 +26,7 @@ An app that will help you in growing your career, An App which gives you Motiavt
 ## Why?
 <a href="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"><img src="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"></a>
  
-I Personally Feel this is the only Industry where people are so supportive and want to help each other Grow.
+I personally feel this is the only industry where people are so supportive and want to help each other grow.
      <br>So why not bring all Like Minded People Together?
 
 ## Features
