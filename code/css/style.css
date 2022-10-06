@@ -192,7 +192,9 @@ figure {
 }
 
 img {
+  align-content: center;
   vertical-align: middle;
+margin-right: 10%;
   border-style: none;
 }
 
@@ -635,8 +637,15 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
+
   margin-right: -15px;
   margin-left: -15px;
+}
+.row portfolio-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 2rem;
+    grid-row-gap: 6rem;
 }
 
 .no-gutters {
@@ -1224,7 +1233,7 @@ pre code {
   }
   .row-cols-lg-5 > * {
     flex: 0 0 20%;
-    max-width: 20%;
+    max-width: 200%;
   }
   .row-cols-lg-6 > * {
     flex: 0 0 16.66667%;
@@ -1364,6 +1373,51 @@ pre code {
   .offset-lg-11 {
     margin-left: 91.66667%;
   }
+}
+section.work .card-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 2rem;
+  grid-row-gap: 6rem;
+
+}
+
+section.work .card-wrapper .card {
+  position: relative;
+  height: 250px;
+}
+
+section.work .card-wrapper .card .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background:linear-gradient(to right, #ffbb00, #fffb00, #cd9d00, #e99400, #d1d500); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: var(#fff);
+  opacity: 0;
+  transition: 2s;
+}
+
+section.work .card-wrapper .card:hover .overlay {
+  opacity: 1;
+
+}
+
+section.work .card-wrapper .card .overlay a {
+
+  color: var(#fff);
+  text-decoration: none;
+
+}
+
+section.work .card-wrapper .card .overlay img {
+  height: 100%;
+  width: 100%;
 }
 
 @media (min-width: 1200px) {
