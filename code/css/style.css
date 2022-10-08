@@ -5,7 +5,7 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-:root {
+ :root {
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -192,9 +192,7 @@ figure {
 }
 
 img {
-  align-content: center;
   vertical-align: middle;
-margin-right: 10%;
   border-style: none;
 }
 
@@ -467,7 +465,7 @@ h6, .h6 {
 
 @media (max-width: 1200px) {
   .display-4 {
-    font-size: calc(1.475rem + 2.2vw) ;
+    font-size: calc(1.475rem + 2.7vw) ;
   }
 }
 
@@ -637,15 +635,8 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
-
   margin-right: -15px;
   margin-left: -15px;
-}
-.row portfolio-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 2rem;
-    grid-row-gap: 6rem;
 }
 
 .no-gutters {
@@ -1233,7 +1224,7 @@ pre code {
   }
   .row-cols-lg-5 > * {
     flex: 0 0 20%;
-    max-width: 200%;
+    max-width: 20%;
   }
   .row-cols-lg-6 > * {
     flex: 0 0 16.66667%;
@@ -1373,51 +1364,6 @@ pre code {
   .offset-lg-11 {
     margin-left: 91.66667%;
   }
-}
-section.work .card-wrapper {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-column-gap: 2rem;
-  grid-row-gap: 6rem;
-
-}
-
-section.work .card-wrapper .card {
-  position: relative;
-  height: 250px;
-}
-
-section.work .card-wrapper .card .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100px;
-  height: 100px;
-  background:linear-gradient(to right, #ffbb00, #fffb00, #cd9d00, #e99400, #d1d500); 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  color: var(#fff);
-  opacity: 0;
-  transition: 2s;
-}
-
-section.work .card-wrapper .card:hover .overlay {
-  opacity: 1;
-
-}
-
-section.work .card-wrapper .card .overlay a {
-
-  color: var(#fff);
-  text-decoration: none;
-
-}
-
-section.work .card-wrapper .card .overlay img {
-  height: 100%;
-  width: 100%;
 }
 
 @media (min-width: 1200px) {
@@ -4174,6 +4120,7 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
+  margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
@@ -9842,15 +9789,17 @@ h6,
 .service-item {
   height: 320px;
   background: #F4F5F8;
-  transition: .5s;
+  transition: all 0.5s ease;
 }
 
 .service-item:hover {
   background: #222429;
+  box-shadow: 0px 0px 10px #222429;
+  transform: translateY(-5px);
 }
 
 .service-item h4 {
-  transition: .5s;
+  transition: all 0.5s ease;
 }
 
 .service-item:hover h4 {
@@ -10005,4 +9954,181 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.learn-more {
+  border: 2px solid black;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.learn-more:hover {
+  background: transparent;
+  border: 2px solid black;
+  color: black;
+}
+
+.learn-more i {
+  padding-left: 10px;
+  transition: all 0.3s ease; 
+}
+
+.learn-more:hover i {
+  transform: translateX(15px);
+}
+
+.read-more {
+  color: #fff;
+  border-radius: 6px;
+  border: 2px solid #FFAA17;
+  transition: all 0.3s ease;
+}
+
+.read-more:hover {
+  background: transparent;
+  border: 2px solid #FFAA17;
+  color: black;
+}
+
+.read-more i {
+  padding-left: 10px;
+  transition: all 0.3s ease; 
+}
+
+.read-more:hover i {
+  transform: scale(1.2);
+}
+
+.tilt {
+  transform-style: preserve-3d;
+  will-change: transform;
+    transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);
+}
+
+.up {
+  transition: all 0.5s ease;
+}
+
+.up:hover {
+  transform: translateY(-50px);
+  box-shadow: 0 0 10px #ccc;
+}
+
+.down {
+  transition: all 0.5s ease;
+}
+
+.down:hover {
+  transform: translateY(50px);
+  box-shadow: 0 0 10px #222429;
+}
+
+.send-message {
+  border: 2px solid #FFAA17;
+  color: #fff;
+  transition: all 0.5s ease;
+}
+
+.send-message:hover {
+  background: transparent;
+}
+
+.send-message i {
+  padding-left: 10px;
+  transition: all 0.3s ease;
+}
+
+.send-message:hover i {
+  transform: translate3d(25px, 0px, -135px);
+}
+
+.common {
+  border: none;
+  background-color: #fff;
+  transition: all 0.5s ease;
+  border-radius: 30%;
+}
+.common:hover i {
+  color: #fff;
+}
+
+.twit:hover {
+  background-color: #1da1f2;
+  border: none;
+}
+.twit i {
+  color: #1da1f2;
+  transition: all 0.5s ease;
+}
+
+.fb:hover {
+  background-color: #4267b2;
+  border: none;
+}
+.fb i {
+  color: #4267b2;
+  transition: all 0.5s ease;
+}
+
+.linkd:hover {
+  background-color: #0077b5;
+  border: none;
+}
+.linkd i {
+  color: #0077b5;
+  transition: all 0.5s ease;
+}
+
+.insta:hover {
+  background-color: #e1306c;
+  border: none;
+}
+.insta i {
+  color: #e1306c;
+  transition: all 0.5s ease;
+}
+
+
+.copyright a {
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+
+.copyright:hover a {
+  color: #ccc;
+}
+
+.f-link {
+  transition: all 0.5s ease;
+}
+
+.f-link:hover {
+  transform: translateX(10px);
+  text-decoration: none;
+}
+
+.fa-map-marker-alt {
+  transition: all 0.3s ease;
+}
+
+.git:hover .fa-map-marker-alt {
+  transform: translateY(-5px);
+  color: #000;
+}
+
+.fa-phone-alt {
+  transition: all 0.3s ease;
+}
+
+.git:hover .fa-phone-alt {
+  transform: rotate(45deg);
+}
+
+.fa-envelope {
+  transition: all 0.5s ease;
+}
+
+.git:hover .fa-envelope {
+  transform: rotateY(360deg);
+  color: #000;
 }
