@@ -21,7 +21,7 @@ jobs:
         with:
 #           required_label: Up-For-Grab
           assigned_label: hacktoberfest-accepted
-          assigned_label: hacktoberfest
+          
           days_until_warning: 2
           days_until_unassign: 1
           stale_assignment_label: Open
