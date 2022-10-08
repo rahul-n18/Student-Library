@@ -1,3 +1,0 @@
-CTF Time (www.ctftime.org): Has a list of all the ongoing CTFs
-Over the wire: (https://overthewire.org/wargames/): Has different levels that get unlocked after clearing the previous
-Pico CTF: (https://picoctf.org/): Has various challenges for almost all the categories
