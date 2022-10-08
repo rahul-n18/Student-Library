@@ -9,16 +9,14 @@
 <br>
 
 <h2 align="left">Idea 💡: </h2>
-<p align="left">My Idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by students for their Day to Day Life.
-For example Instead for browsing an entire web for some book, we can have a library which provides them the book they need. Not only that, An app which gives you latest Updates of Tech world,
-An app that will help you in growing your career, An App which gives you Motiavtion and guides you to the path with which you can become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
+<p align="left">My idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by students for their day to day life. For example instead for browsing the entire web for some book, we can have a library provide it to them. Not only that, an app which gives you latest updates from the tech world, an app that will help you to grow your career, an app which motivates you and guides you towards the right path or a place where like minded people can talk and discuss about various stuff.<p>
 </h3>
 
 
 <p align="center">
   <a href="#why">Why</a> •
   <a href="#features">Features</a> •
-  <a href="#for-you">For You?</a> •
+  <a href="#for-you">For You?</a>
  
 </p>
 
@@ -26,28 +24,26 @@ An app that will help you in growing your career, An App which gives you Motiavt
 ## Why?
 <a href="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"><img src="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"></a>
  
-I Personally Feel this is the only Industry where people are so supportive and want to help each other Grow.
-     <br>So why not bring all Like Minded People Together?
+I personally feel this is the one of the few industries where people are supportive and want to help each other grow.
+     <br>So why not bring all like minded people together?
 
 ## Features
 <a allign="right" href="https://media1.giphy.com/media/lXu72d4iKwqek/giphy.gif"><img src="https://media1.giphy.com/media/lXu72d4iKwqek/giphy.gif" alt=" " width="200"></a>
 
- I Created this Repo for Understanding What People Need, such as:
+ I created this repo to understand what people need, such as:
  
-- What Can We Add
-- Tech Stack?
-- Hows?
-- Things which will be Needed
-- What Exactly are a Student's Needs?
+- What can we add
+- Tech stack?
+- How?
+- Things which will be needed
+- What exactly are a student's need?
 
 
 ![line-png-15](https://user-images.githubusercontent.com/64891042/193567794-f5a0e6d0-0f5c-442c-bad2-6b5d3e0d4b68.png)
 
 ## For You?
 
-<p> You may feel like what is there for you. So I thought this Hacktoberfest would be Perfect time in which you can contribute to this Repo and I'll Merge your PR's.
- But I need Genuine Ideas and Innovative way we can make this Happen.
- I Feel we have the Power to pull this off<p>
+<p> You may feel like what is there for you. So I thought this Hacktoberfest would be the perfect time in which you can contribute to this Repo and I'll merge your PRs. But I need genuine ideas and innovative way, we can make this happen. I feel we have the power to pull this off!<p>
 <br>	 
 	 
 - Open an Issue
