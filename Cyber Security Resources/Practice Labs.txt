@@ -1,0 +1,3 @@
+www.tryhackme.com  (for practicing concept of cyber security hands-on)
+www.hackthebox.com (for practicing concept of cyber security hands-on)
+www.vulnhub.com (contains a lot of vulnerable machine of various levels)
