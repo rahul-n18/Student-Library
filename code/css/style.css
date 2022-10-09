@@ -465,7 +465,7 @@ h6, .h6 {
 
 @media (max-width: 1200px) {
   .display-4 {
-    font-size: calc(1.475rem + 2.7vw) ;
+    font-size: calc(1.475rem + 2.2vw) ;
   }
 }
 
@@ -4120,7 +4120,6 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;

@@ -2,16 +2,16 @@
   <br>
   <a href="https://user-images.githubusercontent.com/64891042/193544369-7e54c20d-7139-44b2-9111-e528f0043071.png"><img src="https://user-images.githubusercontent.com/64891042/193544369-7e54c20d-7139-44b2-9111-e528f0043071.png" alt="Student Library" width="900"></a>
   <br>
-  One Stop Solution for Students<br>
+  A One Stop Solution for Students<br>
  <h2 align="center"> ---------- An Idea ------------</h2>
 </h1>
 <br>
 <br>
 
 <h2 align="left">Idea 💡: </h2>
-<p align="left">My Idea is simple but I feel it is needed. I want to build an app which has major of the things a Student needs for his Day to Day Life.
-For example Instead for browsing an entire web for some book, we can have a library which provides his Needs. Not only that an which gives you latest Update of Tech world 
-and Which will help you for growing your career. An App which gives you Motiavtion and path to become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
+<p align="left">My Idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by students for their Day to Day Life.
+For example Instead for browsing an entire web for some book, we can have a library which provides them the book they need. Not only that, An app which gives you latest Updates of Tech world,
+An app that will help you in growing your career, An App which gives you Motiavtion and guides you to the path with which you can become a better Person and where Like minded people can Talk and Discuss about future and Tech.<p>
 </h3>
 
 
@@ -26,7 +26,7 @@ and Which will help you for growing your career. An App which gives you Motiavti
 ## Why?
 <a href="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"><img src="https://media.tenor.com/GtRsVehiXxAAAAAC/why-not-sure-why-not.gif"></a>
  
-I Personally Feel this is the only Industry where people are so supportive and wants to help each other's Grow.
+I Personally Feel this is the only Industry where people are so supportive and want to help each other Grow.
      <br>So why not bring all Like Minded People Together?
 
 ## Features
@@ -37,15 +37,15 @@ I Personally Feel this is the only Industry where people are so supportive and w
 - What Can We Add
 - Tech Stack?
 - Hows?
-- Things which is Needed
-- What Exactly a Student Want?
+- Things which will be Needed
+- What Exactly are a Student's Needs?
 
 
 ![line-png-15](https://user-images.githubusercontent.com/64891042/193567794-f5a0e6d0-0f5c-442c-bad2-6b5d3e0d4b68.png)
 
 ## For You?
 
-<p> You May feel like what is there for you. so I thought this Hacktoberfest would be Perfect time you can contribute to this Repo and ill Merge your PR's.
+<p> You may feel like what is there for you. So I thought this Hacktoberfest would be Perfect time in which you can contribute to this Repo and I'll Merge your PR's.
  But I need Genuine Ideas and Innovative way we can make this Happen.
  I Feel we have the Power to pull this off<p>
 <br>	 
