@@ -4124,10 +4124,36 @@ input[type="button"].btn-block {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+  transition: all 0.3s ease;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
+}
+
+.navbar-brand:hover {
+  transform: translateX(10px);
+}
+
+.navbar-brand img {
+  transition:  all 0.3s ease;
+}
+
+.navbar-brand:hover img {
+  transform: translateY(-10px);
+}
+
+@keyframes vibrate {
+  from {
+    transform: rotate(-10deg);
+  }
+  to {
+    transform: rotate(10deg);
+  }
+}
+
+.phone:hover {
+  animation: vibrate 0.05s ease 0s infinite alternate none;
 }
 
 .navbar-nav {
