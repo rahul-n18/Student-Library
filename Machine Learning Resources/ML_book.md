@@ -18,6 +18,7 @@ Here are the open source books on Machine Learning, Deep Learning, Probability a
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
 * [Forecasting: principles and practice](https://otexts.com/fpp2/)
 * [Practical Artificial Intelligence Programming in Java](https://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 
 ## Deep Learning
@@ -32,6 +33,7 @@ Here are the open source books on Machine Learning, Deep Learning, Probability a
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) Early access book
 * [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python) Early access book
 * [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ## Probability & Statistics
 
