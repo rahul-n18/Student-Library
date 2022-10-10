@@ -20,9 +20,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Rubik&display=swap" rel="stylesheet"> 
 
     <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/b70d731558.js" crossorigin="anonymous"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
@@ -35,7 +37,7 @@
     <div class="container-fluid bg-white position-relative">
         <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
             <a href="index.html" class="navbar-brand text-secondary">
-                <h1 class="display-4 text-uppercase">Student Library</h1>
+                <h1 class="display-4 text-uppercase"><img src="./img/favicon/android-chrome-192x192.png" width="70px" alt=""> Student Library</h1>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -44,11 +46,12 @@
                 <div class="navbar-nav ml-auto py-0 pr-3 border-right">
                     <a href="index.html" class="nav-item nav-link">Home</a>
                     <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="service.html" class="nav-item nav-link">Project Idea</a>
-                    <a href="project.html" class="nav-item nav-link">Why us</a>
-                    <a href="contact.html" class="nav-item nav-link">Connect Us</a>
+                    <a href="services.html" class="nav-item nav-link">What's new ?</a>
+                    <a href="newsletter.html" class="nav-item nav-link">Projects</a>
+                    <a href="contributors.html" class="nav-item nav-link">Contributors</a>
+                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
                 </div>
-                <div class="d-none d-lg-flex align-items-center pl-4">
+                <div class="phone d-none d-lg-flex align-items-center pl-4">
                     <i class="fa fa-2x fa-mobile-alt text-primary mr-3"></i>
                     
                 </div>
@@ -67,21 +70,21 @@
             <h6 class="text-uppercase m-0">About</h6>
         </div>
     </div>
-    <!-- Page Header Start -->
+    <!-- Page Header Ends -->
 
 
     <!-- About Start -->
-    <div class="container-fluid pt-5">
-        <div class="container pt-5">
+    <div class="container-fluid py-5">
+        <div class="container py-5">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-6" data-aos="zoom-in">
                     <img class="img-fluid mb-4 mb-lg-0" src="img/about.jpg" alt="">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" data-aos="fade-left">
                     <h1 class="display-4 text-uppercase mb-4">Best Library on the Web !</h1>
                     <h5 class="text-uppercase text-primary mb-3">My Idea is simple but I feel it is essential. I want to build an app which covers majority of the things that are required by students for their Day to Day Life. For example Instead for browsing an entire web for some book, we can have a library which provides them the book they need. Not only that,
                          An app which gives you latest Updates of Tech world, An app that will help you in growing your career, An App which gives you Motiavtion and guides you to the path with which you can become a better Person and where Like minded people can Talk and Discuss about future and Tech.</p>
-                    <a href="" class="btn btn-primary text-uppercase py-3 px-5">Read More</a>
+                    <a href="" class="read-more btn btn-primary text-uppercase py-3 px-5">Read More <i class="fa-solid fa-book-open-reader"></i></a>
                 </div>
             </div>
         </div>
@@ -94,7 +97,7 @@
         <div class="container pb-3">
             <div class="row">
                 <div class="col-lg-4 mb-2">
-                    <div class="d-flex align-items-center bg-light rounded mb-4 px-5" style="height: 150px;">
+                    <div class="d-flex align-items-center bg-light rounded mb-4 px-5" style="height: 150px;" data-aos="fade-up">
                         <i class="fa fa-3x fa-map-marker-alt text-primary mr-3"></i>
                         <div class="d-flex flex-column">
                             <h5 class="text-uppercase">Our Office</h5>
@@ -103,7 +106,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 mb-2">
-                    <div class="d-flex align-items-center bg-light rounded mb-4 px-5" style="height: 150px;">
+                    <div class="d-flex align-items-center bg-light rounded mb-4 px-5" style="height: 150px;" data-aos="fade-up">
                         <i class="fa fa-3x fa-envelope-open text-primary mr-3"></i>
                         <div class="d-flex flex-column">
                             <h5 class="text-uppercase">Email Us</h5>
@@ -112,7 +115,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 mb-2">
-                    <div class="d-flex align-items-center bg-light rounded mb-4 px-5" style="height: 150px;">
+                    <div class="d-flex align-items-center bg-light rounded mb-4 px-5" style="height: 150px;" data-aos="fade-up">
                         <i class="fas fa-3x fa-phone-alt text-primary mr-3"></i>
                         <div class="d-flex flex-column">
                             <h5 class="text-uppercase">Call Us</h5>
@@ -129,36 +132,35 @@
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-white-50 py-5 px-sm-3 px-md-5" style="margin-top: 90px;">
         <div class="row pt-5">
-            <div class="col-lg-3 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6 mb-5">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="m-0 mt-n2 text-white display-4" style="font-size:xx-large;">Student Library</h1>
+                    <h1 class="m-0 mt-n2 text-white display-4" style="font-size:xx-large;"><img src="./img/favicon/android-chrome-192x192.png" width="40px" alt=""> Student Library</h1>
                 </a>
                 <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
                 <h6 class="text-uppercase text-white py-2">Follow Us</h6>
                 <div class="d-flex justify-content-start">
-                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                     <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-instagram"></i></a>
-                    <a class="btn btn-lg btn-primary btn-lg-square" href="#"><i class="fab fa-github"></i></a>
+                    <a class="common twit btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
+                    <a class="common fb btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a class="common linkd btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="common insta btn btn-lg btn-primary btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-white mb-4">Get In Touch</h4>
                 <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
-                <p><i class="fa fa-map-marker-alt text-white mr-2"></i>123 Street, New York, USA</p>
-                <p><i class="fa fa-phone-alt text-white mr-2"></i>+012 345 67890</p>
-                <p><i class="fa fa-envelope text-white mr-2"></i>info@example.com</p>
+                <p class="git"><i class="fa fa-map-marker-alt text-white mr-2"></i>123 Street, New York, USA</p>
+                <p class="git"><i class="fa fa-phone-alt text-white mr-2"></i>+012 345 67890</p>
+                <p class="git"><i class="fa fa-envelope text-white mr-2"></i>info@example.com</p>
             </div>
-            <div class="col-lg-3 col-md-6 mb-5">
+            <div class="col-lg-2 col-md-6 mb-5">
                 <h4 class="text-uppercase text-white mb-4">Quick Links</h4>
                 <div class="d-flex flex-column justify-content-start">
-                    <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Home</a>
-                    <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>About Us</a>
-                    <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Our Services</a>
-                    <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Pricing Plan</a>
-                    <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Meet The Team</a>
-                    <a class="text-white-50" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Contact Us</a>
+                    <a class="f-link text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Home</a>
+                    <a class="f-link text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>About Us</a>
+                    <a class="f-link text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Our Services</a>
+                    <a class="f-link text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Pricing Plan</a>
+                    <a class="f-link text-white-50 mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Meet The Team</a>
+                    <a class="f-link text-white-50" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Contact Us</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
@@ -177,8 +179,8 @@
         </div>
     </div>
     <div class="container-fluid py-4 px-sm-3 px-md-5" style="background: #111111;">
-        <p class="mb-2 text-center text-white-50">&copy; <a href="#">Your Site Name</a>. All Rights Reserved.</p>
-        <p class="m-0 text-center text-white-50">Designed by <a href="https://htmlcodex.com">HTML Codex</a></p>
+        <p class="mb-2 text-center text-white-50">&copy; <span class="copyright"><a href="#">Student Library</a></span> | All Rights Reserved.</p>
+        <p class="m-0 text-center text-white-50">Designed by <span class="copyright"><a href="https://htmlcodex.com">HTML Codex</a></span></p>
     </div>
     <!-- Footer End -->
 
@@ -202,6 +204,13 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1000,
+      });
+    </script>
 </body>
 
 </html>
